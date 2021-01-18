@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\css",
+    "\\public\\css\\font-awesome",
+    "\\public\\css\\font-awesome\\fonts",
+    "\\public\\css\\fontello\\css",
+    "\\public\\images",
+    "\\public\\js",
+    "\\src",
+    "\\src\\components"
+  ],
+  "SelectedNode": "\\src\\components\\Header.js",
+  "PreviewInSolutionExplorer": false
+}
