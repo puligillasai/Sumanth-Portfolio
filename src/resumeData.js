@@ -69,15 +69,15 @@ let resumeData = {
       },
       
       {
-        "CompanyName":"Nextogen, India",
-        "specialization":"PHP Web Developer ",
-        "MonthOfLeaving":"Nov 2014 - Feb 2017",
+        "CompanyName":"Accolite, India",
+        "specialization":"Quality Analyst",
+        "MonthOfLeaving":"July - Sept 2018",
    
-        "worka":"• Performed full life cycle development by integrating web-based software solutions using PHP, MySQL, HTML, CSS3 and JavaScript",  
-        "workb":"• Performing daily scrum and routine code reviews",
-        "workc":"• Designed and implemented new features into the application",  
-        "workd":"• Developed and maintained the webforms and banners using PHP Laravel framework",
-        "worke":"• Reports to the web development manager",
+          "worka":"• Created and produced Test Plans, Scenarios, Scripts and Cases, as well as User Stories and Use Cases to scope various projects, with a focus on cloud-based web services.",  
+          "workb":"• Executed all levels of testing, including system, integration, regression, smoke, functionality, performance, user acceptance and manual testing. Also involved in the design and development of automation scripts",
+          "workc":"• Detect, logged and tracked software defects and inconsistencies, passing feedback to developer teams",  
+          "workd":"• Used quality engineering principles within an agile product and service lifecycle. ",
+          "worke":"• Supported with product documentation and guidance literature",
       
       },
 
