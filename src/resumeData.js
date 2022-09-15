@@ -20,8 +20,16 @@ let resumeData = {
       ],
     
     "education":[
+        {
+            "UniversityName":"University of Central Missouri"
+            "specialization":"Masters in Computer Science",
+            "MonthOfPassing":"DEcember",
+            "YearOfPassing":"2022",
+            
+        },
       {
-        "UniversityName":"University of East London",
+        
+         "UniversityName":"University of East London",
         "specialization":"Masters in Computer Science",
         "MonthOfPassing":"July",
         "YearOfPassing":"2020",
